@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git branch: 'main', poll: false, url: 'https://github.com/ayushmansingh2711/react-jenikns-pine-line/tree/main/food-del/frontend'
+                git branch: 'main', poll: false, url: 'https://github.com/ayushmansingh2711/AI-chat-bot-docker-jenkins1'
             }
         }
 
@@ -23,7 +23,7 @@ pipeline {
             steps {
                 script {
                     sh 'docker rm -f  my-react-app '
-                    sh 'docker run -d --name my-react-app -p 1155:5173 ayushman2711/react-app1'
+                    sh 'docker run -d --name my-react-app -p 1155:80 ayushman2711/react-app1'
                 }
             }
         }
