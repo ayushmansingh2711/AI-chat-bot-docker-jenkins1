@@ -13,6 +13,10 @@ Demo
 <img width="1824" height="980" alt="Screenshot from 2025-09-09 16-21-45" src="https://github.com/user-attachments/assets/9944fa18-c7e7-4165-90d0-eb4205aee45f" />
 
 
+<img width="1824" height="980" alt="Screenshot from 2025-09-09 16-24-19" src="https://github.com/user-attachments/assets/d006f6f0-a090-4dd5-aba8-d7e21b2f8f2c" />
+
+
+
 
 
 
