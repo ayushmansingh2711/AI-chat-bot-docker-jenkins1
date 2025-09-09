@@ -1,4 +1,29 @@
 
+Demo 
+
+
+
+<img width="1824" height="980" alt="Screenshot from 2025-09-09 16-21-03" src="https://github.com/user-attachments/assets/eab26113-5d7a-4665-9318-2fc2c197ba59" />
+
+
+
+
+<img width="1824" height="980" alt="Screenshot from 2025-09-09 16-21-45" src="https://github.com/user-attachments/assets/9944fa18-c7e7-4165-90d0-eb4205aee45f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Project info
 
 
