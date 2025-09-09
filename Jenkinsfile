@@ -22,7 +22,7 @@ pipeline {
         stage('Deploy Services') {
             steps {
                 script {
-                    sh 'docker rm -f  my-react-app '
+                    sh 'docker rm -f  react-app1'
                     sh 'docker run -d --name my-react-app -p 1155:80 ayushman2711/react-app1'
                 }
             }
@@ -31,7 +31,7 @@ pipeline {
         stage('Post Deployment Testing') {
             steps {
                 script {
-                    sh 'curl -I http://localhost:5173'
+                    sh 'curl -I http://localhost:1155'
                 }
             }
         }
